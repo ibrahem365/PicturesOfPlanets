@@ -1,4 +1,4 @@
-MarsPhotos - Solution Code
+MarsPhotos
 ==================================
 
 Introduction
